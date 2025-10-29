@@ -65,7 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `Ozakye`, `Java-Back-End`, `ozaky`, `Java Back-End`, `project_description`, `project_license`
+Projeto de Java Back-end feito a partir do bootcamp Santander pela DIO.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
