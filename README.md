@@ -23,10 +23,10 @@
   <p align="center">
     Explorando desafios em Java
     <br />
-    <a href="https://github.com/Ozakye"><strong>Confira meus repos »</strong></a>
+    <a href="https://github.com/Ozakye?tab=repositories"><strong>Confira meus repos »</strong></a>
     <br />
     <br />
-    <a href="https://www.dio.me/users/bruna_ozaki">Perfil</a>
+    <a href="https://github.com/Ozakye">Perfil</a>
     &middot;
     <a href="https://web.dio.me/users/bruna_ozaki?tab=achievements">Perfil DIO</a>
     &middot;
